@@ -17,6 +17,6 @@ public class HomePage {
         log.info("Elementin hazır olması bekleniyor");
         methods.waitUntilPresence(By.id("nav-global-location-popover-link"));
     Assert.assertTrue(methods.waitUntilElementAppear(By.id("nav-global-location-popover-link")));
-
+szcs<d<s
     }
 }
