@@ -6,7 +6,7 @@ import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 ıjjhkkj
-
+safdsad
 public class HomePage {
     Logger log= LogManager.getLogger(Methods.class);
     Methods methods;
