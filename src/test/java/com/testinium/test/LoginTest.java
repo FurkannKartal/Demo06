@@ -3,7 +3,7 @@ package com.testinium.test;
 import com.testinium.driver.BaseTest;
 import com.testinium.page.LoginPage;
 import org.junit.Test;
-
+deneme
 public class LoginTest extends BaseTest {
     deneeme
     @Test
