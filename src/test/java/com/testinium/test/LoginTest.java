@@ -5,6 +5,7 @@ import com.testinium.page.LoginPage;
 import org.junit.Test;
 
 public class LoginTest extends BaseTest {
+    deneeme
     @Test
     public void loginTest(){
 
