@@ -10,6 +10,7 @@ public class ProductPage {
 
     }
     public void product(){
+        asdsdas
         methods.waitUntilPresence(By.cssSelector("div>a[id='nav-hamburger-menu']"));
         methods.waitUntilElementAppear(By.cssSelector("div>a[id='nav-hamburger-menu']"));
         methods.waitUntilElementClickable(By.cssSelector("div>a[id='nav-hamburger-menu']"));
