@@ -3,7 +3,7 @@ package com.testinium.page;
 import com.testinium.methods.Methods;
 import org.openqa.selenium.By;
 import org.junit.Assert;
-import safasd
+import safasd;
 
 
 public class ProductPage {
