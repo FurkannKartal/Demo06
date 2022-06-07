@@ -4,7 +4,7 @@ import com.testinium.methods.Methods;
 import org.openqa.selenium.By;
 
 import java.util.Scanner;
-
+dsfsad
 public class LoginPage {
     Methods methods;
     public LoginPage(){
