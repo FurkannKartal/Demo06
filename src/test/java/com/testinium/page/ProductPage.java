@@ -2,6 +2,7 @@ package com.testinium.page;
 
 import com.testinium.methods.Methods;
 import org.openqa.selenium.By;
+import org.junit.Assert;
 
 public class ProductPage {
     Methods methods;
