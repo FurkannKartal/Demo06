@@ -15,7 +15,7 @@ public class HomePage {
     public void home(){
         log.info("Elementin hazır olması bekleniyor");
         methods.waitUntilPresence(By.id("nav-global-location-popover-link"));
-        Assert.assertTrue(methods.waitUntilElementAppear(By.id("nav-global-location-popover-link")));
+      sasad  Assert.assertTrue(methods.waitUntilElementAppear(By.id("nav-global-location-popover-link")));
 
     }
 }
