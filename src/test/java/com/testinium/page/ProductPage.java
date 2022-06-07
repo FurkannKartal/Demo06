@@ -4,6 +4,7 @@ import com.testinium.methods.Methods;
 import org.openqa.selenium.By;
 import org.junit.Assert;
 import safasd;
+dasfsad;
 
 public class ProductPage {
     Methods methods;
